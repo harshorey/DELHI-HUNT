@@ -1,0 +1,19 @@
+.card {
+   
+   background-image: url("light\ background.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.5s;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  
+  body{
+    background-image: url("pexels-maddy-freddie-4133970.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
