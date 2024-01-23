@@ -1,5 +1,5 @@
 .card {
-   
+   margin:10px ;
     background-image: url(light\ background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,7 +9,7 @@
    }
    
    .card:hover {
-     transform: scale(1.1);
+     transform: scale(1.07);
    }
    
    body{
